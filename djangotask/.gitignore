@@ -83,7 +83,6 @@ celerybeat-schedule
 
 # Environments
 .env
-.git/
 .idea/
 .venv
 env/
